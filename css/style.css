@@ -1,0 +1,22 @@
+h1, h2 {
+    text-align: center;
+}
+
+#wireframes {
+    display: block;
+    size: 50%;
+    text-align: center;
+}
+
+.img {
+    display: block;
+    width: 1000px;
+    margin: auto
+}
+
+ul, li {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+}
